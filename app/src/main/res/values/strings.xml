@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The diet plan</string>
+    <string name="home_made_diet_plan">Home made diet plan</string>
+    <string name="for_65_people">For 65+ people</string>
+    <string name="on_demand_diet_plan">On demand diet plan</string>
+    <string name="diet_for_patients">Diet for patients</string>
+</resources>
